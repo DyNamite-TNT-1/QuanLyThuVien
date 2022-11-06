@@ -1,0 +1,74 @@
+25
+473,Dang,Van,1,1
+1
+LLLLLL1,Machine Learning Co Ban,1,8/8/2020,28/8/2020
+200,Hoang Thi,Tien,1,1
+3
+RRRRRR1,Doi Ngan Dung Ngu Dai,2,22/8/2020,0/0/0
+JJJJJJ3,Cong Nghe Blockchain,0,27/8/2020,0/0/0
+ZZZZZZ4,Giao Trinh Thuat Toan,0,28/8/2020,0/0/0
+53,Ngo Tuan,Tu,0,1
+6
+ZZZZZZ3,Giao Trinh Thuat Toan,1,27/8/2020,28/8/2020
+WWWWWW1,Mac Ke Thien Ha,1,23/8/2020,25/8/2020
+RRRRRR2,Doi Ngan Dung Ngu Dai,1,22/8/2020,22/8/2020
+WWWWWW1,Mac Ke Thien Ha,1,10/8/2020,25/8/2020
+OOOOOO1,Taekwon Do Ky Thuat Co Ban,2,27/8/2020,0/0/0
+JJJJJJ1,Cong Nghe Blockchain,0,27/8/2020,0/0/0
+8,Ngo Nam,Nhac,0,1
+0
+155,Ngo,Nhac,0,0
+0
+73,Hoang Van Nam,Nam,1,0
+0
+144,Ho Tran,Phong,0,1
+3
+CCCCCC1,Ngu Van 12,1,18/8/2020,27/8/2020
+QQQQQQ1,Sinh Ra De Chay,1,27/8/2020,28/8/2020
+FFFFFF1,Toan Hoc,1,28/8/2020,28/8/2020
+171,Vo Thi Hoa,Tranh,1,1
+1
+XXXXXX2,Giai Thuat Va Lap Trinh,0,14/8/2022,0/0/0
+410,Dang Van,Lam,0,1
+0
+248,Dang Thuy,Tien,1,1
+0
+204,Dang My,Dung,1,1
+0
+202,Dang Gia,Bao,0,1
+2
+BBBBBB2,Toan Lop 12,0,27/8/2020,0/0/0
+JJJJJJ12,Cong Nghe Blockchain,0,15/8/2020,0/0/0
+257,Ngo Nhan,Dan,0,1
+0
+299,Dang,Thi,1,1
+0
+408,Ngo,Gia,1,0
+0
+546,Hoang Van,Hau,1,1
+0
+531,Nguyen,Nhac,0,1
+0
+639,Nguyen Van,Nam,0,1
+0
+603,Hoang,Van,1,1
+0
+689,Dang Le,Gia,1,1
+0
+644,Nguyen,Hue,0,1
+2
+WWWWWW2,Mac Ke Thien Ha,1,12/8/2020,28/8/2020
+RRRRRR1,Doi Ngan Dung Ngu Dai,1,22/8/2020,22/8/2020
+904,Ngo Quyen,Anh,1,1
+2
+VVVVVV1,Xa Dieu Anh Hung Truyen,0,27/8/2020,0/0/0
+NNNNNN3,Than Dieu Hiep Lu,0,13/8/2020,0/0/0
+820,Phan Van,Vu,0,1
+3
+XXXXXX1,Giai Thuat Va Lap Trinh,0,28/8/2020,0/0/0
+FFFFFF1,Toan Hoc,0,28/8/2020,0/0/0
+CCCCCC1,Ngu Van 12,0,28/8/2020,0/0/0
+747,Do Huu,Nghi,1,1
+0
+746,Nguyen Tuan,Kiet,0,1
+0

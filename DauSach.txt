@@ -1,0 +1,579 @@
+28
+Cong Nghe Blockchain
+JJJJJJ
+Nhieu Tac Gia
+Cong Nghe
+541
+2017
+3
+32
+JJJJJJ1
+1
+ngan 1, hang 2
+JJJJJJ2
+0
+ngan 2 , hang 2
+JJJJJJ3
+1
+ngan 1, hang 3
+JJJJJJ4
+0
+ngan 1,hang 4
+JJJJJJ5
+0
+ngan 1, hang 5
+JJJJJJ6
+0
+ngan1 , hang 6
+JJJJJJ7
+0
+ngan 1, hang 7
+JJJJJJ8
+0
+ngan 1, hang 8
+JJJJJJ9
+0
+ngan 1, hang 9
+JJJJJJ10
+0
+ngan 1, hang 10
+JJJJJJ11
+0
+ngan 1, hang 10
+JJJJJJ12
+1
+ngan 1, hang 10
+JJJJJJ13
+0
+ngan 1 , hang 11
+JJJJJJ14
+0
+ngan 1 , hang 12
+JJJJJJ15
+0
+ngan 1 , hang 13
+JJJJJJ16
+0
+ngan 1, hang 14
+JJJJJJ17
+0
+ngan 1, hang 15
+JJJJJJ18
+0
+ngan 1, hang 16
+JJJJJJ19
+0
+ngan 1 , hang 15
+JJJJJJ20
+0
+ngan 1, hang 16
+JJJJJJ21
+0
+ngan 1, hang 17
+JJJJJJ22
+0
+ngan 1, hang 18
+JJJJJJ23
+0
+ngan 1, hang 19
+JJJJJJ24
+0
+ngan 1, hang 20
+JJJJJJ25
+0
+ngan 1, hang 21
+JJJJJJ26
+0
+ngan 1, hang 22
+JJJJJJ27
+0
+ngan 1, hang 23
+JJJJJJ28
+0
+ngan 1, hang 24
+JJJJJJ29
+0
+ngan 1, hang 25
+JJJJJJ30
+0
+ngan 1, hang 26
+JJJJJJ31
+0
+tu 1
+JJJJJJ32
+0
+ngan 2
+Giai Thuat Va Lap Trinh
+XXXXXX
+Le Minh Hoang
+Cong Nghe
+234
+2014
+2
+8
+XXXXXX1
+1
+ngan 2 , hang 1
+XXXXXX2
+1
+ngan 2, hang 2
+XXXXXX3
+0
+nngan 2, hang 3
+XXXXXX4
+0
+ngan 2, hang 4
+XXXXXX5
+0
+ngan 2, hang 5
+XXXXXX6
+0
+ngan 2, hang 6
+XXXXXX7
+0
+ngan 2, hang 7
+XXXXXX8
+0
+ngan 2, hang 8
+Giao Trinh Thuat Toan
+ZZZZZZ
+Thomas H Cormen
+Cong Nghe
+216
+2000
+2
+4
+ZZZZZZ1
+0
+ngan 3,hang 1
+ZZZZZZ2
+0
+ngan 3, hang 2
+ZZZZZZ3
+0
+ngan 3, hang 3
+ZZZZZZ4
+1
+ngan 3,hang 4
+Ky Nang Lap Trinh
+IIIIII
+Dang Van Tien
+Cong Nghe
+699
+2019
+0
+1
+IIIIII1
+0
+ngan 4,hang 1
+Machine Learning Co Ban
+LLLLLL
+Vu Huu Tiep
+Cong Nghe
+158
+2018
+0
+7
+LLLLLL1
+0
+ngan 5, hang 1
+LLLLLL2
+0
+ngan 5, hang 2
+LLLLLL3
+0
+ngan 5, hang 3
+LLLLLL4
+0
+ngan 5, hang 4
+LLLLLL5
+0
+gan 5, hang 5
+LLLLLL6
+0
+gan 5, hang 6
+LLLLLL7
+0
+gan 5, hang 7
+Dam Uoc Mo
+EEEEEE
+Florence Littauer
+Ky Nang
+204
+2017
+0
+7
+EEEEEE1
+0
+ngan 6, hang 1
+EEEEEE2
+0
+ngan 6, hang 2
+EEEEEE3
+0
+ngan 6,hang 3
+EEEEEE4
+0
+ngan 6, hang 4
+EEEEEE5
+0
+ngan 6, hang 5
+EEEEEE6
+0
+ngan 6, hang 6
+EEEEEE7
+0
+ngan 6, hang 7
+De Co Tri Nho Tot
+SSCWSS
+Vuong Trung Hieu
+Ky Nang
+268
+2013
+0
+5
+SSCWSS1
+0
+ngan 7, hang 1
+SSCWSS2
+0
+ngan 7, hang 2
+SSCWSS3
+0
+ngan 7, hang 3
+SSCWSS4
+0
+ngan 7, hang 4
+SSCWSS5
+0
+ngan 7, hang 5
+Doi Ngan Dung Ngu Dai
+RRRRRR
+Robin Sharma
+Ky Nang
+304
+2011
+1
+1
+RRRRRR1
+2
+ngan 8, hang 1
+Giam Bi Ghet
+TTTTTT
+Koga Fumitake
+Ky Nang
+523
+2015
+0
+3
+TTTTTT1
+0
+ngan 10, hang 1
+TTTTTT2
+0
+ngan 10, hang 2
+TTTTTT3
+0
+ngan 10, hang 3
+Mac Ke Thien Ha
+WWWWWW
+Mari Tamagawa
+Ky Nang
+564
+2001
+2
+7
+WWWWWW1
+0
+ngan 13, hang 1
+WWWWWW2
+0
+ngan 13, hang 2
+WWWWWW3
+0
+ngan 13, hang 3
+WWWWWW4
+0
+ngan 13, hang 4
+WWWWWW5
+0
+ngan 13, hang 5
+WWWWWW6
+0
+ngan 13 , hang 6
+WWWWWW7
+0
+ngan 5 , hang 3
+Sinh Ra De Chay
+QQQQQQ
+Christopher Mcdougall
+Ky Nang
+369
+2011
+1
+4
+QQQQQQ1
+0
+ngan 12 ,hang 1
+QQQQQQ3
+0
+ngan 12, hang 3
+QQQQQQ4
+0
+ngan 12, hang 4
+QQQQQQ5
+0
+ngan 12 , hang 7
+Nghin Le Mot Dem
+WFGNEG
+Le Mau Anh Duc
+Phieu Luu
+74
+2001
+0
+5
+WFGNEG1
+0
+tu 5
+WFGNEG2
+0
+tu 3
+WFGNEG3
+0
+tu 5
+WFGNEG4
+0
+tu 3
+WFGNEG5
+0
+ke 3 ngan 1
+Ngu Van 12
+CCCCCC
+Bo Giao Duc
+SGK
+169
+1999
+2
+7
+CCCCCC1
+1
+ngan 12, hang 1
+CCCCCC2
+0
+ngan 12 hang 6
+CCCCCC3
+0
+ngan 13 hang 7
+CCCCCC4
+0
+ngan 1
+CCCCCC5
+0
+ngan 13 , hang 8
+CCCCCC6
+0
+ngan 13, hang 11
+CCCCCC7
+0
+ngan 13, hang 15
+Toan Lop 12
+BBBBBB
+Bo Giao Duc
+SGK
+100
+1999
+1
+2
+BBBBBB1
+1
+Ngan 2, Hang 1
+BBBBBB2
+1
+Ngan 2, Hang 2
+Toan Hoc
+FFFFFF
+Bo Giao Duc
+Sgk
+120
+2011
+2
+3
+FFFFFF1
+1
+ngan 1 cot 2
+FFFFFF2
+0
+hang 1 cot 2
+FFFFFF3
+0
+hang 2 cot 2
+Vat Ly 12
+DDDDDD
+Bo Giao Duc
+Sgk
+200
+1999
+0
+5
+DDDDDD1
+0
+ngan 14 hang 1
+DDDDDD2
+0
+ngan 14, hang 2
+DDDDDD3
+0
+ngan 14, hang 3
+DDDDDD4
+0
+ngan 14, hang 5
+DDDDDD5
+0
+ngan 14, hang 6
+Dau la dai luc
+AAAAAA
+Duong Tam
+Tien hiep
+1235
+2015
+0
+6
+AAAAAA1
+0
+Ngan 1,Hang 1
+AAAAAA2
+1
+Ngan 1,Hang 2
+AAAAAA3
+0
+Ngan 1,Hang 3
+AAAAAA4
+0
+Ngan 1,Hang 4
+AAAAAA5
+1
+Ngan 1,Hang 5
+AAAAAA6
+0
+6
+Than Dieu Hiep Lu
+NNNNNN
+Kim Dung
+Tieu Thuyet
+3621
+1959
+1
+5
+NNNNNN1
+0
+ngan 16, hang 1
+NNNNNN2
+0
+ngan 16 hang 2
+NNNNNN3
+1
+ngan 16 hang 3
+NNNNNN4
+0
+ngan 16 hang 5
+NNNNNN5
+0
+ngan 16, hang 6
+Xa Dieu Anh Hung Truyen
+VVVVVV
+Kim Dung
+Tieu Thuyet
+3692
+1959
+1
+3
+VVVVVV1
+1
+ngan 17 hang 1
+VVVVVV2
+0
+ngan 17, hang 2
+VVVVVV3
+0
+ngan 17 hang 3
+Nam Tuoc Bong Dem
+NTBDKD
+Kudo Jusaku
+Trinh Tham
+234
+1996
+0
+0
+Giai Ma Giac Mo
+SSSSSS
+Nguyen Van Chung
+Tu Vi
+201
+2004
+0
+0
+Huong Dan Hoc Karate
+UUUUUU
+Tran Tuan Hieu
+Vo Thuat
+120
+1989
+0
+0
+Judo Can Ban
+PPPPPP
+Thuan Ngoc Yen
+Vo Thuat
+69
+2015
+0
+0
+Taekwon Do Ky Thuat Co Ban
+OOOOOO
+Duong Quoc
+Vo Thuat
+89
+1985
+1
+3
+OOOOOO1
+2
+ngan 21, hang 1
+OOOOOO2
+0
+ngan 21, hang 2
+OOOOOO3
+0
+ngan 21, hang 3
+Vo Hoc Trung Hoa
+YYYYYY
+Ha Son
+Vo Thuat
+106
+1950
+0
+0
+Bach Khoa Ve Vitamin
+SQWWWC
+Bs Thu Minh
+Y Hoc
+300
+2009
+0
+0
+Hoa Sinh Lam Sang
+SSCWQD
+Dai Hoc Y Ha Noi
+Y Hoc
+199
+2000
+0
+0
+So Tay Duong Sinh
+SQWDXD
+Thich Tue Hai
+Y Hoc
+200
+2015
+0
+0
